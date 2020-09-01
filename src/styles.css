@@ -33,7 +33,7 @@ a:visited {
   background-image: url("https://raw.githubusercontent.com/cph-kiwi/cph-kiwi-images/master/karen-background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center right;
+  background-position: top right;
   min-height: 100vh;
   content: "";
   position: absolute;
